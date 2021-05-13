@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1620722604 source:e:\game_ran_san_moi\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<MMSystem.h>
+	<time.h>
+	"mylib.h"
+
+1620455149 e:\game_ran_san_moi\mylib.h
+	<stdio.h>
+	<conio.h>
+	<ctime>
+	"windows.h"
+
